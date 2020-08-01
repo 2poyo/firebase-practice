@@ -1,0 +1,18 @@
+{
+  "name": "todo-ilm-practice",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "export": "nuxt export",
+    "serve": "nuxt serve"
+  },
+  "dependencies": {
+    "bootstrap-vue": "^2.16.0",
+    "firebase": "^7.17.1",
+    "nuxt": "^2.13.0"
+  },
+  "devDependencies": {}
+}
